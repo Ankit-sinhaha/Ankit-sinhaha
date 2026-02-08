@@ -1,52 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" width="900" height="370">
-  <defs>
-    <!-- 7 gradients: bg, desk, neon1, neon2, skin, mug + 3 filters: glow, bigGlow, shadow -->
-    <!-- + clipPath for screen area -->
-  </defs>
-
-  <style>
-    /* 20 @keyframes animations + 24 CSS classes */
-    /* twinkle, matrixFall, cursorBlink, headBob, handType */
-    /* steam1-3, float1-3, neonPulse, screenGlow */
-    /* eq1-5 (music equalizer), catTail, catBreath, plantSway, glassReflect */
-  </style>
-
-  <!-- BACKGROUND -->
-  <!-- Stars (16 twinkling, some blue/purple accent) -->
-  
-  <!-- MATRIX RAIN (8 columns of falling code chars at 12% opacity) -->
-
-  <!-- AMBIENT SCREEN GLOW (2 pulsing ellipses) -->
-  
-  <!-- DESK + NEON UNDERGLOW (purple gradient pulses) -->
-
-  <!-- MONITOR (frame, webcam, screen, stand, chin) -->
-  
-  <!-- CODE ON SCREEN — 16s infinite loop:
-       Types in → stays → fades out → retypes
-       12 lines of Dracula-themed Java code -->
-
-  <!-- PLANT (swaying leaves in terracotta pot) -->
-
-  <!-- DEVELOPER CHARACTER:
-       - Gaming chair with purple accent stripe
-       - Dark hoodie body
-       - Animated typing hands
-       - Head with glasses (screen reflection flickers)
-       - Headphones with pulsing purple LEDs
-       - 6 music EQ bars bouncing near ear cups -->
-
-  <!-- RGB KEYBOARD (4 rows + space bar):
-       - Color cycles: #ff006e → #8338ec → #3a86ff → #06d6a0 → #ffbe0b
-       - Edge glow strip synced to color cycle -->
-
-  <!-- MOUSE with RGB bottom strip -->
-
-  <!-- COFFEE MUG (heart icon, 3 steam wisps) -->
-
-  <!-- SLEEPING CAT (breathing body, wagging tail, zzz) -->
-
-  <!-- 9 FLOATING CODE SYMBOLS with glow filter -->
-
-  <!-- BOTTOM FADE + TAGLINE -->
+  <!-- DEFS: 8 gradients + 3 filters + 1 clipPath (lines 2-55) -->
+  <!-- STYLE: 20 @keyframes + 24 CSS classes (lines 57-104) -->
+  <!-- BACKGROUND + 16 STARS (lines 106-117) -->
+  <!-- MATRIX RAIN: 8 columns (lines 119-129) -->
+  <!-- AMBIENT GLOW (lines 131-133) -->
+  <!-- DESK + NEON UNDERGLOW (lines 135-144) -->
+  <!-- MONITOR (lines 146-162) -->
+  <!-- CODE ON SCREEN: 16s looping (lines 164-238) -->
+  <!-- PLANT (lines 240-250) -->
+  <!-- DEVELOPER: chair, body, arms, head, glasses, headphones, EQ bars (lines 252-329) -->
+  <!-- RGB KEYBOARD: 4 rows + color cycling (lines 331-366) -->
+  <!-- MOUSE + RGB strip (lines 368-375) -->
+  <!-- COFFEE MUG + steam (lines 377-389) -->
+  <!-- SLEEPING CAT + zzz (lines 391-409) -->
+  <!-- 9 FLOATING CODE SYMBOLS (lines 411-420) -->
+  <!-- BOTTOM FADE + TAGLINE (lines 422-428) -->
 </svg>
