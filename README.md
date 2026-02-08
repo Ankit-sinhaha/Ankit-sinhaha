@@ -20,19 +20,26 @@
 
 <div align="center">
 
-```
-                    ╭──────────────────────────────────────╮
-   ╭─────╮         │                                      │
-   │ > _ │         │  OS      Developer v2.0               │
-   │     │         │  Host    Full Stack + DevOps           │
-   ╰─────╯         │  Kernel  Java 17 ┃ Python 3           │
-   ┌───────┐       │  Shell   Bash ┃ Groovy                │
-   │ ┌───┐ │       │  DE      IntelliJ IDEA ┃ VS Code      │
-   │ │ @ │ │       │  WM      Kubernetes ┃ Docker           │
-   │ └───┘ │       │  Uptime  Coding since Day 1...         │
-   └───────┘       │  Focus   Distributed Billing Systems   │
-                    │                                      │
-                    ╰──────────────────────────────────────╯
+```bash
+$ whoami
+→ Full Stack Developer  |  DevOps Enthusiast  |  DSA Warrior
+
+$ cat mass_skills.sh
+  LANGUAGES=("Java ☕" "Python 🐍" "Groovy" "Bash")
+  FRAMEWORKS=("Spring Boot 🍃" "Hibernate" "Selenium" "TestNG")
+  INFRA=("Kubernetes ☸" "Docker 🐳" "Jenkins" "Kafka")
+  DATABASES=("PostgreSQL" "MongoDB" "Redis" "Couchbase")
+
+$ git log --oneline life
+  e4f2a1b  🔥  Currently: Building distributed billing systems
+  c3d8b7a  🚀  Mastered Kubernetes & Docker orchestration
+  a1b5c9d  🍃  Became a Spring Boot & microservices enthusiast
+  f7e3d2c  🐍  Automated everything with Python & Bash
+  b9a4e6f  ☕  Fell in love with Java
+  d2c1a8b  💡  First "Hello World" — the journey begins
+
+$ uptime
+  Coding since Day 1... and mass will never stop 🔥
 ```
 
 </div>
