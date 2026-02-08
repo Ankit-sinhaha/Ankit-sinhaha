@@ -1,37 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 400" width="850" height="400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" width="900" height="370">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#161b22"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-    // ... gradients, filters, and defs ...
+    <!-- 7 gradients: bg, desk, neon1, neon2, skin, mug + 3 filters: glow, bigGlow, shadow -->
+    <!-- + clipPath for screen area -->
   </defs>
 
   <style>
-    // ... 20+ @keyframes animations ...
-    .star { animation: twinkle 3s ease-in-out infinite; }
-    .steam1 { animation: steamRise1 2.5s ease-out infinite; }
-    // ... class animation bindings ...
+    /* 20 @keyframes animations + 24 CSS classes */
+    /* twinkle, matrixFall, cursorBlink, headBob, handType */
+    /* steam1-3, float1-3, neonPulse, screenGlow */
+    /* eq1-5 (music equalizer), catTail, catBreath, plantSway, glassReflect */
   </style>
 
-  <!-- Background -->
-  <rect width="850" height="400" fill="url(#bgGrad)"/>
+  <!-- BACKGROUND -->
+  <!-- Stars (16 twinkling, some blue/purple accent) -->
   
-  <!-- Stars (15 twinkling stars) -->
-  <!-- Ambient glow behind monitor -->
-  <!-- Wall shelf with colorful books -->
-  <!-- Clock on wall -->
-  <!-- Desk with legs -->
-  <!-- Monitor with code editor -->
-  <!-- CODE ON SCREEN (line-by-line typing animation) -->
-  <!-- Plant with swaying leaves -->
-  <!-- Developer Character (chair, body, arms, head, glasses, headphones) -->
-  <!-- Keyboard with individual keys -->
-  <!-- Mouse -->
-  <!-- Coffee Mug with steam -->
-  <!-- Sleeping Cat with zzz -->
-  <!-- Floating Code Symbols ({ }, </>, ( ), ;, 01, ==, =>, ++, [ ]) -->
-  <!-- Bottom gradient fade -->
-  <!-- Tagline text -->
+  <!-- MATRIX RAIN (8 columns of falling code chars at 12% opacity) -->
+
+  <!-- AMBIENT SCREEN GLOW (2 pulsing ellipses) -->
+  
+  <!-- DESK + NEON UNDERGLOW (purple gradient pulses) -->
+
+  <!-- MONITOR (frame, webcam, screen, stand, chin) -->
+  
+  <!-- CODE ON SCREEN — 16s infinite loop:
+       Types in → stays → fades out → retypes
+       12 lines of Dracula-themed Java code -->
+
+  <!-- PLANT (swaying leaves in terracotta pot) -->
+
+  <!-- DEVELOPER CHARACTER:
+       - Gaming chair with purple accent stripe
+       - Dark hoodie body
+       - Animated typing hands
+       - Head with glasses (screen reflection flickers)
+       - Headphones with pulsing purple LEDs
+       - 6 music EQ bars bouncing near ear cups -->
+
+  <!-- RGB KEYBOARD (4 rows + space bar):
+       - Color cycles: #ff006e → #8338ec → #3a86ff → #06d6a0 → #ffbe0b
+       - Edge glow strip synced to color cycle -->
+
+  <!-- MOUSE with RGB bottom strip -->
+
+  <!-- COFFEE MUG (heart icon, 3 steam wisps) -->
+
+  <!-- SLEEPING CAT (breathing body, wagging tail, zzz) -->
+
+  <!-- 9 FLOATING CODE SYMBOLS with glow filter -->
+
+  <!-- BOTTOM FADE + TAGLINE -->
 </svg>
