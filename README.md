@@ -1,6 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=&fontSize=0" width="100%"/>
-
 <div align="center">
 
 <img src="./coding-animation.svg" alt="Coding Animation" width="100%"/>
@@ -124,121 +121,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/><br/>
-
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
-<div align="center">
-<img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GITHUB%20ANALYTICS-0d1117?style=for-the-badge&labelColor=0d1117" alt=""/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8338ec&text_color=c9d1d9&count_private=true&ring_color=8338ec" alt=""/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt=""/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=8338ec&ring=8338ec&fire=ff006e&currStreakLabel=58a6ff&sideLabels=58a6ff" alt="" width="500"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=8338ec&point=c9d1d9&area=true&area_color=8338ec" alt="" width="95%"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/><br/>
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="" width="90%"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/><br/>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-<img alt="" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/><br/>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="45" alt=""/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" height="45" alt=""/>
-</a>
-&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-<img src="https://img.shields.io/badge/%20-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" height="45" alt=""/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════╗
-  ║                                                  ║
-  ║   "Talk is cheap. Show me the code."             ║
-  ║                          — Linus Torvalds        ║
-  ║                                                  ║
-  ╚══════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
-
 <!--
  ╔═══════════════════════════════════════════════╗
  ║           SETUP INSTRUCTIONS                  ║
@@ -248,11 +130,5 @@
  ║  • YOUR_LEETCODE_USERNAME                     ║
  ║  • YOUR_HACKERRANK_USERNAME                   ║
  ║  • YOUR_GFG_USERNAME                          ║
- ║  • YOUR_LINKEDIN                              ║
- ║  • YOUR_EMAIL                                 ║
- ║  • YOUR_TWITTER                               ║
- ║                                               ║
- ║  For snake animation, add GitHub Action:      ║
- ║  https://github.com/Platane/snk               ║
  ╚═══════════════════════════════════════════════╝
 -->
