@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8338ec&style=flat-square&label=PROFILE+VIEWS" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Ankit-sinhaha&color=8338ec&style=flat-square&label=PROFILE+VIEWS" alt=""/>
 &nbsp;&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=8338ec&style=flat-square&label=FOLLOWERS" alt=""/></a>
+<a href="https://github.com/Ankit-sinhaha?tab=followers"><img src="https://img.shields.io/github/followers/Ankit-sinhaha?color=8338ec&style=flat-square&label=FOLLOWERS" alt=""/></a>
 
 </div>
 
@@ -105,7 +105,7 @@ $ uptime
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/ankitecesinha/" target="_blank">
 <img src="https://img.shields.io/badge/%20-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116" height="60" alt=""/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -120,7 +120,7 @@ $ uptime
 <br/><br/>
 
 <!-- LeetCode Stats -->
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/ankitecesinha/">
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="" width="500"/>
 </a>
 
