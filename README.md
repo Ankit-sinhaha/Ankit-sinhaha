@@ -121,7 +121,7 @@ $ uptime
 
 <!-- LeetCode Stats -->
 <a href="https://leetcode.com/ankitecesinha/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="" width="500"/>
+<img src="https://leetcard.jacoblin.cool/ankitecesinha?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="" width="500"/>
 </a>
 
 </div>
